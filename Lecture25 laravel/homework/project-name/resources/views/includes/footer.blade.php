@@ -1,0 +1,7 @@
+
+<footer class="bg-light text-center text-lg-start">
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.05);">
+    © 2023 Copyright:
+    <a class="text-reset fw-bold" href="https://yourwebsite.com/">Your Website</a>
+  </div>
+</footer>
